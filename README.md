@@ -1,29 +1,122 @@
-<h1 align="center">Hi 👋, I'm Om Shukla</h1>
-<h3 align="center">CSE Student | Aspiring Software Developer 💻 | DSA Enthusiast 🧠 | Cyber Security Explorer 🔐 | Lifelong Learner 🚀</h3>
+# 👋 Hi, I'm Om Shukla
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omshukla0090-art&label=Profile%20views&color=0e75b6&style=flat" alt="omshukla0090-art" /> </p>
+<h3 align="center">
+  💻 Computer Science Engineering Student | Aspiring Software Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omshukla0090-art" alt="omshukla0090-art" /></a> </p>
-
-- 🔭 I’m currently working on [Wooden E-commerce Platform](https://github.com/omshukla0090-art/Wooden-Store.git)
-
-- 🌱 I’m currently learning **DSA and Cyber security**
-
-- 💬 Ask me about **Cyber Security , Machine Learning**
-
-- 📫 How to reach me **omshukla0090@gmail.com**
-
-- ⚡ Fun fact **Side by Side i am Learning for Problems Solving with AI**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/om-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/om-shukla" height="30" width="40" /></a>
-<a href="https://instagram.com/omshukla_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omshukla_0" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DSA+Enthusiast+%F0%9F%A7%A0;Cyber+Security+Explorer+%F0%9F%94%90;Machine+Learning+Learner+%F0%9F%A4%96;Building+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omshukla0090-art&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/omshukla0090-art?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/omshukla0090-art?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omshukla0090-art&show_icons=true&locale=en&layout=compact" alt="omshukla0090-art" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omshukla0090-art&show_icons=true&locale=en" alt="omshukla0090-art" /></p>
+## 🚀 About Me
+
+- 🎓 Computer Science Engineering Student
+- 🔭 Currently working on **[Wooden E-commerce Platform](https://github.com/omshukla0090-art/Wooden-Store)**
+- 🌱 Currently learning **Data Structures & Algorithms (DSA) and Cyber Security**
+- 🤖 Exploring **Machine Learning and Artificial Intelligence**
+- 💬 Ask me about **Cyber Security, Machine Learning and Programming**
+- 📫 Email: **omshukla0090@gmail.com**
+- ⚡ Fun fact: Learning to solve problems with the power of AI!
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,nodejs,django,git,github,android,arduino,photoshop&perline=7" alt="My Skills"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=omshukla0090-art&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omshukla0090-art&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+### ⭐ Repository Overview
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fomshukla0090-art&query=%24.public_repos&label=Public%20Repositories&color=blue&style=for-the-badge" alt="Public Repositories"/>
+  <img src="https://img.shields.io/github/stars/omshukla0090-art/Wooden-Store?style=for-the-badge&label=Wooden%20Store%20Stars" alt="Wooden Store Stars"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omshukla0090-art&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/omshukla0090-art">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=omshukla0090-art&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%"/>
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omshukla0090-art&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/omshukla0090-art/Wooden-Store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omshukla0090-art&repo=Wooden-Store&theme=tokyonight&hide_border=true" alt="Wooden Store Project"/>
+  </a>
+</p>
+
+### 🌟 More Projects
+Explore my repositories for more projects and experiments:
+
+<p align="center">
+  <a href="https://github.com/omshukla0090-art?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Repositories"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/omshukla_0">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:omshukla0090@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/omshukla0090-art">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">💻 Code • Learn • Build • Repeat 🚀</h3>
+
+<p align="center">
+  ⭐ If you like my work, consider giving my repositories a star!
+</p>
